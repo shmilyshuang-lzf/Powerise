@@ -10,4 +10,8 @@ git is the distrubute version control system.
 
 git is free soft under RPG for everyone.
 
+From here , The 4th modify readme.txt file 
+ 
+git can resovle the file for anytime.
+
 
